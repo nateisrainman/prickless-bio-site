@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# AI answer engines (AIEO) are welcome to read and cite our research.
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://pricklessbio.com/sitemap.xml
